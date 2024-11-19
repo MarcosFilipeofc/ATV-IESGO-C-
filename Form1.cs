@@ -29,7 +29,7 @@ namespace AppIdade
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label5.Text = "Feito por Luan C";
+            label5.Text = "Feito por Marcos Filipe";
             //nome 
             string nome = textBox1.Text;
             //data
